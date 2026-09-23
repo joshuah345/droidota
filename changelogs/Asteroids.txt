@@ -3,5 +3,5 @@ Evolution X - 12.2 (23/09/2026)
 - Fix DeviceExtras background crash
 - Fix some crashes with Glyph interface
 - September security patch level
-- Glyph: Fix fix to glyph not working with animation disabled
+- Glyph: Fix flip to glyph not working with animation disabled
 - Import default volume tables instead of attenuation for VTS passing
