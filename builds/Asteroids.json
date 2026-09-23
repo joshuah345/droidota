@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "hiroshi. (Superuser)",
+      "currently_maintained": true,
+      "oem": "Nothing",
+      "device": "Phone (3a) / (3a) Pro",
+      "filename": "EvolutionX-17.0-20260923-asteroids-12.2-Unofficial.zip",
+      "download": "https://pixeldrain.com/api/filesystem/naPWtEX4",
+      "timestamp": 1790142939,
+      "md5": "2cbbbbe67e8f333afcc0e0e3cdd4a86a",
+      "sha256": "469ad13a712bd826c3d746ab49964e5aaab2174322704fc485827865a13801a6",
+      "size": 3426465851,
+      "version": "12.2",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/nukisystems_chat",
+      "paypal": "https://ko-fi.com/superuser",
+      "github": "joshuah345"
+    }
+  ]
+}
