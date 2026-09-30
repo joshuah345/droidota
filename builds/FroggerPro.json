@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "hiroshi. (Superuser)",
+      "currently_maintained": true,
+      "oem": "Nothing",
+      "device": "Phone (4a) Pro",
+      "filename": "EvolutionX-17.0-20260930-FroggerPro-12.2-Unofficial.zip",
+      "download": "https://pixeldrain.com/api/filesystem/Fh6THArB",
+      "timestamp": 1790750595,
+      "md5": "63534d499f86873771af95459a097bc4",
+      "sha256": "b0f0cce6eaee9554ab1637d6d933e135b4cdc4d5ae339406e69677c7450b209e",
+      "size": 5064157888,
+      "version": "12.2",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/nukisystems_chat",
+      "paypal": "https://ko-fi.com/superuser",
+      "github": "joshuah345"
+    }
+  ]
+}
