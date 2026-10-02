@@ -1,0 +1,23 @@
+Evolution X - 12.2 (02/10/2026)
+----------------------
+- Fix dolby codecs (spatial) not working
+- Update kernel to 6.1.173
+- Update firmware/vendor from NebulaAIOS 2.0.3
+
+Notable ROM changes / Differences from A16: 
+- Few more clock styles
+- Automatic depth wallpaper subject extraction
+- Native app lock
+- UDFPS animations will play for biometric prompts
+- Pulse can now be set to display behind media controls 
+- Pulse amplitude capture mode
+- Additional pulse renderers (waveform, dot wave)
+- Lockscreen widgets are back again
+- redesigned power menu option
+- Danmaku notifications (GameSpace) now follow DND settings 
+
+Google/Android changes 
+- 3 button navigation order can be reversed again
+- Labels and at a glance can be hidden from pixel launcher
+- Bubble apps can be launched from pixel launcher
+- voice assist app has it's own volume stream
