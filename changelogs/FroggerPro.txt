@@ -1,3 +1,11 @@
+Evolution X - 12.3 (15/10/2026)
+----------------------
+- Fix sepolicy issue with glyph (again!), it should work for everyone now
+- Fix AxionFx sometimes requiring a force stop to begin processing
+- Fix touchpanel charging mode not being enabled
+- Fix conflict with AOD toy and third party apps accessing glyph
+- Fix refresh rate being pinned at 144 on keyguard with fingerprint enabled
+
 Evolution X - 12.2 (30/09/2026)
 ----------------------
 - Fix sepolicy issue with glyph
