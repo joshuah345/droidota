@@ -1,3 +1,11 @@
+Evolution X - 12.3 (19/10/2026)
+----------------------
+- Fix issue with USB randomly disconnecting
+- Update firwmare/vendor from Asteroids-B4.1-260928-1204
+- TrickyStore keybox spoofing should work now, broken in previous build
+- October security patches
+- Disable DeviceAsWebcam
+
 Evolution X - 12.2 (23/09/2026)
 ----------------------
 - Fix DeviceExtras background crash
