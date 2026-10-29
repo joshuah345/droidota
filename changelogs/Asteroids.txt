@@ -1,3 +1,14 @@
+Evolution X - 12.3 (29/10/2026)
+----------------------
+- Glyph: Implement basic rule-based essential notifications
+- Glyph: Allow setting animations based on notification channel
+- Glyph: Cache applications to allow for faster launching
+- Glyph: Fix initial state of animation preference disabled
+- Switch to QTI perf implementation 
+- Build NrEnabler (to avoid a potential issue with 5G SA not being enabled in modem)
+- Fix LHDCv5 SW bluetooth codec
+- Switch to stock face unlock HAL
+
 Evolution X - 12.3 (19/10/2026)
 ----------------------
 - Fix issue with USB randomly disconnecting
