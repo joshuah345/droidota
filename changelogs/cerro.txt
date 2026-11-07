@@ -1,3 +1,10 @@
+Evolution X - 12.4 (07/11/2026)
+----------------------
+- Fix LHDCv5 SW bluetooth codec
+- Fix NubiaCamera crash on LUT import
+- Update Dolby app from upstream
+- Switch to 8GB dalvik heap properties
+
 Evolution X - 12.2 (02/10/2026)
 ----------------------
 - Fix dolby codecs (spatial) not working
